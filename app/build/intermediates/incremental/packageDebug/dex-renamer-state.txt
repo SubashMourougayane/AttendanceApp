@@ -1,0 +1,7 @@
+#Fri Nov 03 14:51:00 IST 2017
+base.0=/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dbe4b4557d491213b5fc4a5a693c0eb647580f58
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1ed12ff1beae597f3e2fde85d71e1ace69ab3ab5/classes.dex
+base.1=/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1ed12ff1beae597f3e2fde85d71e1ace69ab3ab5
+file.0=/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dbe4b4557d491213b5fc4a5a693c0eb647580f58/classes.dex

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="rvelib-0.8.01">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/d8db7440df80e9f6d91c5675eb88122df47d1e06/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/d8db7440df80e9f6d91c5675eb88122df47d1e06/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.omidh/rvelib/0.8.01/697cfba52ca3864888b1fee77e62139e66c4480d/rvelib-0.8.01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

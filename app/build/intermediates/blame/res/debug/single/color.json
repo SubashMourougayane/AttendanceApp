@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/color/common_plus_signin_btn_text_light.xml"
+    }
+]

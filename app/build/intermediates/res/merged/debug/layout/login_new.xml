@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary_new"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="135dp"
+        app:srcCompat="@drawable/att" />
+
+    <TextView
+        android:id="@+id/att_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="cursive"
+        android:text="Attendance Tracker"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <me.omidh.ripplevalidatoredittext.RippleValidatorEditText
+        android:id="@+id/colgid"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:inputType="textPersonName"
+        android:padding="8dp"
+        android:textColorHint="#fff"
+        app:rve_backgroundColor="#10ffffff"
+        app:rve_bottomLeftCornerRadius="4dp"
+        app:rve_bottomRightCornerRadius="4dp"
+        app:rve_editTextColor="#fff"
+        app:rve_editTextGravity="left"
+        app:rve_editTextSize="14sp"
+        app:rve_errorColor="#EF5350"
+        app:rve_helperTextGravity="left"
+        app:rve_helperTextSize="12sp"
+        app:rve_hint="Enter Your College ID"
+        app:rve_normalColor="#fff"
+        app:rve_strokeWidth="1dp"
+        app:rve_topLeftCornerRadius="4dp"
+        app:rve_topRightCornerRadius="4dp"
+        app:rve_typingColor="#fff"
+        app:rve_validColor="#ff00c853" />
+
+    <me.omidh.ripplevalidatoredittext.RippleValidatorEditText
+        android:id="@+id/pass"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
+        android:inputType="textEmailAddress"
+        android:padding="8dp"
+        android:textColorHint="#fff"
+        app:rve_backgroundColor="#10ffffff"
+        app:rve_bottomLeftCornerRadius="4dp"
+        app:rve_bottomRightCornerRadius="4dp"
+        app:rve_editTextColor="#fff"
+        app:rve_editTextGravity="center|left"
+        app:rve_editTextSize="14sp"
+        app:rve_errorColor="#EF5350"
+        app:rve_helperTextGravity="left"
+        app:rve_helperTextSize="12sp"
+        app:rve_hint="Enter Your Password"
+        app:rve_normalColor="#fff"
+        app:rve_strokeWidth="1dp"
+        app:rve_topLeftCornerRadius="4dp"
+        app:rve_topRightCornerRadius="4dp"
+        app:rve_typingColor="#fff"
+        app:rve_validColor="#ff00c853" />
+
+    <Button
+        android:id="@+id/colidsubmit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:padding="18dp"
+        android:text="Login"
+        android:theme="@style/LoginButton" />
+
+    <com.singh.daman.proprogressviews.DottedArcProgress
+        android:id="@+id/arc_prog"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        app:dots_color="@color/colorAccent_new"
+        app:dots_radius="15dp" />
+</LinearLayout>

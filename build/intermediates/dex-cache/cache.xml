@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/753f9271e3af9a74daec8c94938374d12e340529/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73223d2689d8186e153447ad5335cdac0bfdad90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/34a406bd0e1c7b67372ec9a275f9e9d9b8606e20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c684bcc6bd7b70110b87484adaae18f7e976e29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/b1583d317fdc66129727196fe2069af6f6e0907e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57846aca1588e86107fe2c1358f288df51685dd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_530a1983612114f79adeb023913bc02238a07c9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/adb1bd097c74e84cb6cc81c7aa9438abe17101f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_847860d29dd355a09d3f38312887ac70a96309d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32698cd94c3b80d0da0c2f77ad493b6b9e66654e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/d16eae8662feb4f6e70e96810f13b3f21be801bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_167831a682dc9740e31fcf250fe9ab230e78eb51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/460ad7881f110d0ff293c80ec40e2bb61f584d42/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12a4deb79bcfbf6b9098557a36d27131caefc343/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/efcec1e2814dfa64a748f665b2c9d2987efb4504/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea6ad6a998dc6c1bc25b0c5c8d71ecbfe5185a5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/a1f7725558ac56d530d77adb9c7b06cc6daff296/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef9c2516c2303ab3956fa9e38616f008a7c88d26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/466bac9c9ede6b8838ac157236171f797816da6c/output/jars/libs/nineoldandroids-library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/nineoldandroids-library-2.4.0_1fcf5e9e52871afd817e77a31363bfd5651f7b0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/9ca8c5aafcc28cb6a7b9dbbad29ec8608ed568cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_acd132333404ab1897fabbce1129124b1465a337/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/f398fa7ed2044e6a2ba6c0083d80b16c89830553/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd4d6eef879dffd9a0021ac53d0df297c1b2d745/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/Desktop/Attendance/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dbe4b4557d491213b5fc4a5a693c0eb647580f58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/Desktop/Attendance/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4285e48a15fcbcde4ca28e008b1985cda605638a">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1ed12ff1beae597f3e2fde85d71e1ace69ab3ab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/86eb1441a7cb3f48a6263c79c4371a92fdf8b153/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64e38a559feb6d1c0161f88b66b993840fcb880a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd64d936e1accbc43a33980e3d70f0bec05c0eed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/282dd6b29b6ffe37bffe32e5b1b89d27976e82ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b26a89db024450648ccc862a62d5621c305a5f00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/358065ffd335141762247d6dd8f0ead2c70827f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc69357079277a3b8f36cf19b7cda9fa2eca15ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/466bac9c9ede6b8838ac157236171f797816da6c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e309b1df3051abebbfda31d1c80cd19bec617da">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b82bea0f9833f3605cbbfcdacafc4ae851c40ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/2bea405385c4822c48428330be63098800918a1e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20fd3b569a709796784c8d64a8d0b2c9e7104d2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/f5e50a44609e3ec0a1c052f81f3c42b72132f8d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f182128401e9cd8784dbff8f9b2acb2bf736ad33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/8941c12c8e50388673aff144e70dcfe27a8a98a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c33e1ae076b4862a582f8e2811902ba7cd9009ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/17223f79ae7fb5866ff8bc94f8390f1b2d02d5d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d1879a5d917b10af6fc22b4fdb43b73f4e294f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/f752eef273ef255464c149379a31f4fa2a8db334/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fae6afabbc5e1614393014a498ec8d4ae2a6722a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/c4fe1a3acc5842c519a9d40f273db22c3c2812ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b23d3e9dce271dd318984ecc3594d11c4f57b42a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/3cad8e4d5c027fd8b657aced307cc6a92a474a97/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c08c2ea9146c138942fde6e225b2b280db0c876/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5af2ebb496640d2d249762283ced631cb65930a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/ced93c86f14700d5da046cedfdc2aeffa4a78931/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b11e42f3df13e3f7bc7934016c64c044420a73d">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b39e6015c3ff74f8d405224f18d0702f7616bf30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/ca22aeb33844467e1a6cfb7d455ea360f37f27b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e5aac070834537bc906d877368f13b41aafbf05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/subash/.android/build-cache/d8db7440df80e9f6d91c5675eb88122df47d1e06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07ea0def1517f3fab1ad570dac1dc0336a513bf0">
+        <dex dex="/home/subash/Desktop/Attendance/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b65825980b065b43850e073d0a2d7f3145e5e72e/classes.dex" />
+    </item>
+
+</items>

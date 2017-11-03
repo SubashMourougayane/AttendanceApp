@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/layout-v11/notification_template_big_media.xml"
+    }
+]

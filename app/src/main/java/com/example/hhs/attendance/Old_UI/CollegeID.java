@@ -1,0 +1,122 @@
+package com.example.hhs.attendance.Old_UI;
+
+import android.content.Intent;
+import android.content.SharedPreferences;
+import android.os.AsyncTask;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.Toast;
+
+import com.example.hhs.attendance.R;
+import com.firebase.client.DataSnapshot;
+import com.firebase.client.Firebase;
+import com.firebase.client.FirebaseError;
+import com.firebase.client.ValueEventListener;
+
+public class CollegeID extends AppCompatActivity
+{
+    Firebase fb_db;
+    String BASE_URL = "https://attendance-79ba4.firebaseio.com/CollegeID/";
+    EditText colgid;
+    Button submit;
+    String ID,pwd;
+    EditText pass;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        SharedPreferences pref = getApplicationContext().getSharedPreferences("MyPref", MODE_PRIVATE);
+        String stats = pref.getString("islogin","");
+        System.out.println("Stats is "+stats);
+        if(stats.equals("yes"))
+        {
+            Intent i = new Intent(CollegeID.this,Home.class);
+            startActivity(i);
+        }
+        else
+        {
+
+            setContentView(R.layout.login_new);
+            Firebase.setAndroidContext(this);
+            colgid = (EditText)findViewById(R.id.colgid);
+            submit = (Button)findViewById(R.id.colidsubmit);
+            pass = (EditText)findViewById(R.id.pass);
+
+            submit.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v)
+                {
+                    ID = colgid.getText().toString();
+                    pwd=pass.getText().toString();
+                    if(ID.equals("")||pwd.equals(""))
+                    {
+                        Toast.makeText(getApplicationContext(),"Please enter the credentials...",Toast.LENGTH_SHORT).show();
+                    }
+                    else
+                    {
+                        new MyTask().execute();
+
+                    }
+
+
+                }
+            });
+        }
+
+
+    }
+    public class MyTask extends AsyncTask<String, Integer, String>
+    {
+
+        @Override
+        protected String doInBackground(String... params)
+        {
+            SharedPreferences pref = getApplicationContext().getSharedPreferences("MyPref", MODE_PRIVATE);
+            final SharedPreferences.Editor editor = pref.edit();
+            fb_db=new Firebase(BASE_URL);
+            fb_db.addListenerForSingleValueEvent(new ValueEventListener()
+            {
+                @Override
+                public void onDataChange(DataSnapshot dataSnapshot)
+                {
+                    for(DataSnapshot postSnapshot:dataSnapshot.getChildren())
+                    {
+                        System.out.println("fuck is "+postSnapshot.getKey());
+                        ColgIDAdapter colgIDAdapter = postSnapshot.getValue(ColgIDAdapter.class);
+                        String S =colgIDAdapter.getID();
+                        String name = colgIDAdapter.getName();
+                        String passss = colgIDAdapter.getPass();
+                        System.out.println("LOL 1 IS "+S+"  "+name);
+                        System.out.println("retrieved ID is "+S);
+                        if(ID.equals(S)&&(pwd.equals(passss)))
+                        {
+                            System.out.println("LOL 2 IS "+S+"  "+name);
+                            editor.putString("CID",S);
+                            editor.putString("Cname",name);
+                            editor.commit();
+                            Intent i = new Intent(CollegeID.this,StartingActivity.class);
+                            startActivity(i);
+                        }
+
+                    }
+
+
+
+                }
+
+                @Override
+                public void onCancelled(FirebaseError firebaseError)
+                {
+                    System.out.println("FIREBASE ERROR OCCURED");
+
+                }
+
+            });
+            return null;
+        }
+
+    }
+}
