@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gesture.png",
         "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\drawable\\gesture.png"
     },
@@ -16,6 +12,354 @@
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/att.png",
+        "source": "/home/subash/Desktop/Attendance/app/src/main/res/drawable/att.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/att.png",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/drawable/att.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/layout_bg.xml",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/drawable/layout_bg.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/pattern.png",
+        "source": "/home/subash/Desktop/Attendance/app/src/main/res/drawable/pattern.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\att.png",
+        "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\drawable\\att.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/layout_bg.xml",
+        "source": "/home/subash/Desktop/Attendance/app/src/main/res/drawable/layout_bg.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/gesture.png",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/drawable/gesture.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/home/subash/Desktop/Attendance/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/button_selector.xml",
+        "source": "/home/subash/Desktop/Attendance/app/src/main/res/drawable/button_selector.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/pattern_new.png",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/drawable/pattern_new.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/woman.png",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/drawable/woman.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/man.png",
+        "source": "/home/subash/Desktop/Attendance/app/src/main/res/drawable/man.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/woman.png",
         "source": "/home/subash/Desktop/Attendance/app/src/main/res/drawable/woman.png"
     },
@@ -24,32 +368,28 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
-        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_google_signin_btn_text_dark.xml"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
         "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable/design_bottom_navigation_item_background.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
         "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/att.png",
-        "source": "/home/subash/Desktop/Attendance/app/src/main/res/drawable/att.png"
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/titlebar_menu_selector.xml",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/drawable/titlebar_menu_selector.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
@@ -64,16 +404,8 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_dialog_material_background.xml"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
         "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_plus_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
@@ -92,56 +424,36 @@
         "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\drawable\\pattern2.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\woman.png",
-        "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\drawable\\woman.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\woman.png",
+        "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\drawable\\woman.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
-        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable/navigation_empty_icon.xml"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/pattern2.png",
         "source": "/home/subash/Desktop/Attendance/app/src/main/res/drawable/pattern2.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\drawable\\design_password_eye.xml"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\man.png",
         "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\drawable\\man.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/titlebar_menu_selector.xml",
@@ -156,56 +468,40 @@
         "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_plus_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/button_selector.xml",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/drawable/button_selector.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\drawable\\design_snackbar_background.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable/design_fab_background.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_seekbar_tick_mark_material.xml"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_btn_check_material.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
-        "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\drawable\\button_selector.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
@@ -228,16 +524,12 @@
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
@@ -248,20 +540,12 @@
         "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\drawable\\layout_bg.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
         "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_plus_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
@@ -272,6 +556,10 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ic_voice_search_api_material.xml"
     },
@@ -280,16 +568,24 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
         "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/man.png",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/drawable/man.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern_new.png",
         "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\drawable\\pattern_new.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
@@ -300,20 +596,16 @@
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/pattern.png",
-        "source": "/home/subash/Desktop/Attendance/app/src/main/res/drawable/pattern.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/books.png",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/drawable/books.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
@@ -328,16 +620,16 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/books.png",
         "source": "/home/subash/Desktop/Attendance/app/src/main/res/drawable/books.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/pattern2.png",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/drawable/pattern2.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
@@ -348,52 +640,28 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\att.png",
-        "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\drawable\\att.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/layout_bg.xml",
-        "source": "/home/subash/Desktop/Attendance/app/src/main/res/drawable/layout_bg.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ic_search_api_material.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
         "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_plus_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\drawable\\design_fab_background.xml"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
-        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_google_signin_btn_text_light.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/pattern_new.png",
         "source": "/home/subash/Desktop/Attendance/app/src/main/res/drawable/pattern_new.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
-        "source": "/home/subash/Desktop/Attendance/app/src/main/res/drawable/side_nav_bar.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/gesture.png",
@@ -404,28 +672,20 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_dialog_material_background.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/button_selector.xml",
-        "source": "/home/subash/Desktop/Attendance/app/src/main/res/drawable/button_selector.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_btn_colored_material.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
@@ -434,6 +694,10 @@
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable/navigation_empty_icon.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
@@ -452,14 +716,6 @@
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
-        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable/design_password_eye.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/notification_icon_background.xml"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_vector_test.xml"
     },
@@ -468,16 +724,16 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/notification_bg.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_plus_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
@@ -488,27 +744,27 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_plus_signin_btn_text_dark.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pattern.png",
         "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\drawable\\pattern.png"
     },
     {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\titlebar_menu_selector.xml",
         "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\drawable\\titlebar_menu_selector.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
-        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable/common_google_signin_btn_icon_light.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/shape_button_validator.xml",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/drawable/shape_button_validator.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/man.png",
-        "source": "/home/subash/Desktop/Attendance/app/src/main/res/drawable/man.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable/notification_tile_bg.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable/pattern.png",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/drawable/pattern.png"
     }
 ]

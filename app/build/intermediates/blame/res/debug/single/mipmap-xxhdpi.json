@@ -8,8 +8,16 @@
         "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_app.png",
         "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_app.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_app.png",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/mipmap-xxhdpi/ic_launcher_app.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_app.png",

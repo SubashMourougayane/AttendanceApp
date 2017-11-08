@@ -1,23 +1,15 @@
 [
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
-        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/anim/design_snackbar_in.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\anim\\design_fab_out.xml"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/fade_in_slide_right.xml",
         "source": "/home/subash/.android/build-cache/d8db7440df80e9f6d91c5675eb88122df47d1e06/output/res/anim/fade_in_slide_right.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
@@ -32,12 +24,20 @@
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_fade_out.xml"
     },
     {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/fade_in_slide_right.xml",
+        "source": "/home/subash/.android/build-cache/d8db7440df80e9f6d91c5675eb88122df47d1e06/output/res/anim/fade_in_slide_right.xml"
+    },
+    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
         "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/anim/design_fab_out.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in_slide_right.xml",
@@ -48,48 +48,28 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
-        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/anim/design_fab_in.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
-        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/anim/design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/anim/design_snackbar_in.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/anim/design_fab_in.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/anim/design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
@@ -120,19 +100,107 @@
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/anim/design_fab_out.xml"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/anim/design_bottom_sheet_slide_in.xml"
     }
 ]

@@ -1,19 +1,7 @@
 [
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
@@ -36,68 +24,56 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
-        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_ic_googleplayservices.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
         "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png",
-        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
@@ -106,10 +82,6 @@
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
@@ -124,100 +96,72 @@
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/subash/.android/build-cache/466bac9c9ede6b8838ac157236171f797816da6c/output/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_full_open_on_phone.png",
         "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_full_open_on_phone.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
-        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_full_open_on_phone.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_full_open_on_phone.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
-        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\design_ic_visibility_off.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
@@ -228,8 +172,12 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_16dp.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
@@ -244,16 +192,12 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
@@ -284,28 +228,24 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
         "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
@@ -320,12 +260,12 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
-        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png",
@@ -336,24 +276,20 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/design_ic_visibility_off.png",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable-mdpi-v4/design_ic_visibility_off.png"
+    },
+    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
-        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
@@ -380,44 +316,12 @@
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
-        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_48dp.png",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
         "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
@@ -428,7 +332,7 @@
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
         "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9.png"
     },
     {
@@ -436,28 +340,44 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
-        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
     },
     {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
@@ -480,28 +400,28 @@
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
         "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
@@ -520,12 +440,488 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/design_ic_visibility_off.png",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable-mdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/design_ic_visibility.png",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable-mdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_full_open_on_phone.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\design_ic_visibility_off.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
@@ -540,10 +936,6 @@
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal.9.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/notification_bg_normal.9.png"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
@@ -556,14 +948,6 @@
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_ic_googleplayservices.png",
-        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_ic_googleplayservices.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/design_ic_visibility_off.png",
-        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable-mdpi-v4/design_ic_visibility_off.png"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
     },
@@ -572,12 +956,24 @@
         "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/drawable-mdpi-v4/design_ic_visibility.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_focused.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\design_ic_visibility.png",
@@ -588,40 +984,40 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
@@ -632,83 +1028,43 @@
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png",
         "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
-        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
-    },
-    {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
         "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
-        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_36dp.png",
         "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
-        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\f6b3c40fafa88a4a5b49008e5a0f7bf08ed24655\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\dfd9cd199b1b14802f57b35f8e5ad880cdb81143\\output\\res\\drawable-mdpi-v4\\ic_launcher.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
-        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png",
-        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
-        "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\22f53d2390bf71823e1d6c56f83106144cdaeaec\\output\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/subash/.android/build-cache/03ded3aa215ffb969c56337789b90c6f01d5b486/output/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
     }
 ]

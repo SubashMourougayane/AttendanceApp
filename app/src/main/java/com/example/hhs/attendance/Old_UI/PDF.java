@@ -6,6 +6,7 @@ package com.example.hhs.attendance.Old_UI;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -25,6 +26,8 @@ import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.Toast;
 
+import com.example.hhs.attendance.New_UI.Home.MenuActivity;
+import com.example.hhs.attendance.New_UI.Login.Login;
 import com.example.hhs.attendance.R;
 import com.firebase.client.DataSnapshot;
 import com.firebase.client.Firebase;
@@ -54,6 +57,7 @@ import static android.content.Context.MODE_PRIVATE;
 public class PDF extends Fragment
 {
     Button gen;
+    int c1=0,c2=0,c3=0,c4=0;
     Spinner classspinner,subjspinner,datespinner,hourspinner;
     EditText fromto;
     ArrayList<String> Classlist;
@@ -122,6 +126,7 @@ public class PDF extends Fragment
         classspinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                c1++;
                 System.out.println("CLICKING ON "+Classlist.get(position));
                 c = Classlist.get(position);
                 new MyTask2().execute();
@@ -132,9 +137,12 @@ public class PDF extends Fragment
 
             }
         });
-        subjspinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+        subjspinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener()
+        {
             @Override
-            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+            public void onItemSelected(AdapterView<?> parent, View view, int position, long id)
+            {
+                c2++;
                 System.out.println("CLICKING ON "+Subjlist.get(position));
                 s = Subjlist.get(position);
                 new MyTask3().execute();
@@ -149,6 +157,7 @@ public class PDF extends Fragment
         datespinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                c3++;
                 System.out.println("CLICKING ON "+Datelist.get(position));
                 d = Datelist.get(position);
                 new MyTask4().execute();
@@ -163,6 +172,7 @@ public class PDF extends Fragment
         hourspinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                c4++;
                 System.out.println("CLICKING ON "+Hourlist.get(position));
                 h = Hourlist.get(position);
 
@@ -196,8 +206,19 @@ public class PDF extends Fragment
             gen.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    System.out.println("LOLOLOL " + c + "_" + s + "_" + d + "_" + h);
-                    new MyTask9().execute();
+
+                    if(c1==0||c2==0||c3==0||c4==0)
+                    {
+                        System.out.println("IN IF ");
+                        Toast.makeText(getActivity(),"Please Select Valid Attendance or Subject.",Toast.LENGTH_SHORT).show();
+                    }
+                    else
+                    {
+                        System.out.println("LOLOLOL " + c + "_" + s + "_" + d + "_" + h);
+                        c1=0;c2=0;c3=0;c4=0;
+                        new MyTask9().execute();
+                    }
+
 
                 }
             });
@@ -497,7 +518,8 @@ public class PDF extends Fragment
                 public void onDataChange(DataSnapshot dataSnapshot)
                 {
 
-                    for(DataSnapshot postSnapshot:dataSnapshot.getChildren()) {
+                    for(DataSnapshot postSnapshot:dataSnapshot.getChildren())
+                    {
                         System.out.println("keys are 1:" + postSnapshot.getKey());
 
                         String S = postSnapshot.getKey();
@@ -584,6 +606,9 @@ public class PDF extends Fragment
         protected void onPostExecute(String result)
         {
             System.out.println("IN POST EXEC");
+            Toast.makeText(getActivity(),"Report PDF Generated in your Local Storage under Attendance Folder",Toast.LENGTH_LONG).show();
+
+
 
         }
 

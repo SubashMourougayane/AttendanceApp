@@ -12,7 +12,15 @@
         "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
     },
     {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/subash/.android/build-cache/466bac9c9ede6b8838ac157236171f797816da6c/output/res/drawable-ldpi-v4/ic_launcher.png"
+    },
+    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\dfd9cd199b1b14802f57b35f8e5ad880cdb81143\\output\\res\\drawable-ldpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/subash/.android/build-cache/10248a9fc3b5290ba54108da77160012250d5cfe/output/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
     }
 ]

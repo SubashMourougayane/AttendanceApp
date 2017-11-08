@@ -4,6 +4,10 @@
         "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     },
     {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/subash/.android/build-cache/8479191738920f7d3931046518448ee58f0cbd7a/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "/home/subash/Desktop/Attendance/C:\\Users\\nadus\\.android\\build-cache\\deb33f5cb0fb149e70efbe5c130a059785bfcc54\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }

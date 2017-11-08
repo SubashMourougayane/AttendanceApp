@@ -8,6 +8,14 @@
         "source": "/home/subash/Desktop/Attendance/app/src/main/res/menu/home.xml"
     },
     {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/menu/activity_home_drawer.xml",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/menu/activity_home_drawer.xml"
+    },
+    {
+        "merged": "/home/subash/Desktop/ATTENDANCE/Attendance/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/home/subash/Desktop/ATTENDANCE/Attendance/app/src/main/res/menu/home.xml"
+    },
+    {
         "merged": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
         "source": "/home/subash/Desktop/Attendance/X:\\AndroidProjects\\Attendance\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
     },
